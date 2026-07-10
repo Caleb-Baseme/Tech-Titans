@@ -2,7 +2,7 @@
 
 All notable changes to the ParkPal project will be documented in this file.
 
-The format is based on Keep a Changelog 1.1.0, and this project follows Semantic Versioning.
+The format is based on Keep a [Changelog 1.1.0][https://keepachangelog.com/en/1.1.0/], and this project follows [Semantic Versioning 2.0.0][https://semver.org/].
 
 ## [Unreleased]
 ### Planned
