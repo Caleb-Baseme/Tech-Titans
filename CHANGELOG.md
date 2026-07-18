@@ -8,6 +8,7 @@ The format is based on Keep a [Changelog 1.1.0](https://keepachangelog.com/en/1.
 ### Planned
 - Interactive prototype.
 - Parking payment integration.
+- Face ID or Touch ID as alternate login credentials.
 - Multiple saved parking locations.
 - Accessibility enhancements.
 - loud synchronization.
