@@ -6,11 +6,34 @@ The format is based on Keep a [Changelog 1.1.0](https://keepachangelog.com/en/1.
 
 ## [Unreleased]
 ### Planned
-- Refine the wireframe based on stakeholder feedback.
-- Add user profile management.
-- Support multiple saved parking locations.
-- Add customizable reminder settings.
-- Improve navigation with icons and accessibility enhancements.
+- Interactive prototype.
+- Parking payment integration.
+- Multiple saved parking locations.
+- Accessibility enhancements.
+- loud synchronization.
+
+## [0.2.0] - 2026-07-15
+
+### Added
+- User Profile screen.
+- Navigation icons.
+- Forgot passwprd option.
+- Walking distance indicator.
+- Parking History preview.
+
+### Changed
+- Redesigned Home Dashboard using a medium-fidely layout.
+- Enlarged the 'Save My Spot' button.
+- Improved spacing and typography.
+- Replaced placeholders with realistic interface elements.
+- Updated 'Nearby Parking' with card-style results.
+- Improved 'Parking Timer' with a larger countdown timer.
+
+### Fixed
+- Corrected inconsistent navigation.
+- Standardized button styles.
+- Improved readibility.
+- Fixed layout alignment issues.
 
 ## [0.1.0] - 2026-07-08
 
